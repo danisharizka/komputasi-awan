@@ -1,0 +1,159 @@
+Country,League,Club,Player Names,Matches_Played,Substitution,Mins,Goals,xG,xG Per Avg Match,Shots,OnTarget,Shots Per Avg Match,On Target Per Avg Match,Year,value
+USA,MLS,(ACM),zlatan ibrahimovic,31,0,2998,31,22.72,0.72,159,67,5.04,2.12,2019,3500000
+Spain,La Liga,(ATL),luis suarez,22,6,2126,16,14.32,0.64,79,42,3.53,1.88,2019,28000000
+Spain,La Liga,(RMA),karim benzema,36,1,3207,21,21.61,0.64,124,59,3.67,1.75,2019,32000000
+Spain,La Liga,(ALA),joselu,31,5,2990,11,13.22,0.42,87,30,2.76,0.95,2019,5000000
+Spain,La Liga,(SEV),carlos fernandez,21,13,2428,10,10.48,0.41,47,19,1.84,0.74,2019,3000000
+Spain,La Liga,(OSA),ante budimir,33,2,2923,13,12.31,0.4,56,22,1.82,0.72,2019,6000000
+Spain,La Liga,(SOC),mikel oyarzabal,36,1,3247,10,8.89,0.26,62,22,1.81,0.64,2019,48000000
+Spain,La Liga,(VIL),gerard moreno,33,2,2831,18,16.09,0.54,89,34,2.99,1.14,2019,16000000
+Spain,La Liga,(BAR),lionel messi,32,1,3067,25,21.63,0.67,159,68,4.93,2.11,2019,112000000
+Spain,La Liga,(RMA),sergio ramos,35,0,3100,11,11.09,0.34,39,17,1.2,0.52,2019,14000000
+Spain,La Liga,(SEV),lucas ocampos,31,2,2929,14,13.26,0.43,84,36,2.72,1.17,2019,32000000
+Spain,La Liga,(GET),jaime mata,33,1,2923,11,12.0,0.39,58,23,1.89,0.75,2019,8000000
+Spain,La Liga,(CEL),iago aspas,37,0,3474,14,15.72,0.43,84,39,2.3,1.07,2019,16000000
+Portugal ,Primeira Liga,(BRA),paulinho,27,2,2451,17,14.96,0.58,89,38,3.45,1.47,2019,13500000
+Portugal ,Primeira Liga,(MNU),bruno fernandes,17,0,1656,8,5.58,0.32,60,23,3.44,1.32,2019,48000000
+Portugal ,Primeira Liga,(BOA),angel gomes,6,0,530,3,1.12,0.2,12,3,2.15,0.54,2019,3000000
+Italy,Serie A,(NAP),arkadiusz milik,19,7,1870,11,9.45,0.48,68,29,3.45,1.47,2019,32000000
+Italy,Serie A,(INT),romelu lukaku,33,3,3156,23,18.94,0.57,99,47,2.98,1.41,2019,68000000
+Italy,Serie A,(Sassuolo ),francesco caputo,33,3,3125,21,13.82,0.42,73,35,2.22,1.06,2019,5000000
+Italy,Serie A,(NAP),andrea petagna,33,3,3263,12,13.74,0.4,110,33,3.2,0.96,2019,14000000
+Italy,Serie A,(JUV),cristiano ronaldo,33,0,3127,31,27.32,0.83,208,79,6.32,2.4,2019,60000000
+Italy,Serie A,(SAS),domenico berardi,29,2,2654,14,10.9,0.39,120,46,4.3,1.65,2019,19000000
+Italy,Serie A,(CAG),joao pedro,35,1,3394,18,13.93,0.39,87,37,2.44,1.04,2019,14000000
+Italy,Serie A,(CAG),joao pedro,35,1,3394,18,13.93,0.39,87,37,2.44,1.04,2019,12000000
+Italy,Serie A,(ATA),josip ilicic,21,5,1786,15,9.78,0.52,81,36,4.31,1.91,2019,15000000
+Italy,Serie A,,andreas cornelius,17,9,1637,12,6.38,0.37,46,20,2.67,1.16,2019,8000000
+Italy,Serie A,(CAG),giovanni simeone,34,3,3115,12,11.8,0.36,87,30,2.65,0.91,2019,13000000
+Italy,Serie A,(LAZ),ciro immobile,36,1,3371,36,26.61,0.75,142,71,4.0,2.0,2019,40000000
+Italy,Serie A,(LEC),marco mancosu,28,5,2627,14,15.21,0.55,84,31,3.04,1.12,2019,2000000
+Italy,Serie A,(ATA),duvan zapata,25,3,2143,18,15.11,0.67,89,37,3.95,1.64,2019,36000000
+Italy,Serie A,(ATA),luis muriel,10,23,1370,18,12.4,0.86,77,41,5.34,2.84,2019,15000000
+Italy,Serie A,(SAM),fabio quagliarella,26,2,2413,11,13.72,0.54,102,35,4.02,1.38,2019,1000000
+Italy,Serie A,(BEN),gianluca lapadula,20,5,1906,11,9.43,0.47,61,24,3.04,1.2,2019,4000000
+Italy,Serie A,(TOR),andrea belotti,34,2,3214,16,16.58,0.49,104,41,3.07,1.21,2019,32000000
+Germany,Bundesliga,(DOR),jadon sancho,25,7,2387,17,9.8,0.39,52,28,2.07,1.11,2019,117000000
+Germany,Bundesliga,(CHE),timo werner,33,1,2744,28,20.8,0.72,123,63,4.26,2.18,2019,64000000
+Germany,Bundesliga,(WOB),wout weghorst,30,2,2893,16,18.27,0.6,85,38,2.79,1.25,2019,21000000
+Germany,Bundesliga,(DOR),marco reus,18,1,1561,11,8.54,0.52,47,24,2.86,1.46,2019,32000000
+Germany,Bundesliga,(CHE),kai havertz,29,1,2586,12,9.53,0.35,59,26,2.17,0.96,2019,81000000
+Germany,Bundesliga,(BMG),marcus thuram,28,3,2296,10,10.15,0.42,56,36,2.32,1.49,2019,22000000
+Germany,Bundesliga,(DUS),rouwen hennings,27,5,2592,15,10.91,0.4,73,27,2.68,0.99,2019,2000000
+Germany,Bundesliga,(BAY),robert lewandowski,31,0,2783,34,31.05,1.06,138,67,4.71,2.29,2019,56000000
+Germany,Bundesliga,(FCA),florian niederlechner,31,2,2846,13,13.18,0.44,78,40,2.6,1.34,2019,8000000
+Germany,Bundesliga,(DOR),erling haaland,11,4,1116,12,7.64,0.65,34,19,2.89,1.62,2019,72000000
+Germany,Bundesliga,(MON),kevin volland,24,3,2159,10,11.59,0.51,78,32,3.43,1.41,2019,28000000
+Germany,Bundesliga,(SCF),nils petersen,24,10,2595,11,8.47,0.31,55,19,2.01,0.7,2019,6000000
+Germany,Bundesliga,(BMG),lars stindl,14,11,1518,9,7.19,0.45,33,15,2.07,0.94,2019,6000000
+Germany,Bundesliga,(MAI),robin quaison,31,1,2718,13,12.02,0.42,71,28,2.48,0.98,2019,10000000
+Germany,Bundesliga,(BAY),serge gnabry,26,5,2216,12,13.3,0.57,95,40,4.07,1.71,2019,72000000
+Germany,Bundesliga,(KOL),sebastian andersson,31,2,2813,12,13.62,0.46,65,37,2.2,1.25,2019,4000000
+Germany,Bundesliga,(BMG),alassane plea,25,2,2252,10,11.62,0.49,77,35,3.25,1.48,2019,35000000
+France,France Ligue 7,(PSG),neymar,15,0,1396,12,15.87,1.08,71,36,4.83,2.45,2019,128000000
+France,France Ligue 13,(MAR),dimitri payet,22,0,2057,9,5.85,0.27,63,26,2.91,1.2,2019,10000000
+France,France Ligue 6,(PSG),mauro icardi,14,6,1353,12,12.11,0.85,36,20,2.53,1.4,2019,60000000
+France,France Ligue 15,(LYO),memphis depay,12,1,1077,9,4.53,0.4,48,21,4.23,1.85,2019,44000000
+France,France Ligue 9,(NIC),kasper dolberg,22,1,1994,11,7.77,0.37,42,25,2.0,1.19,2019,16000000
+France,France Ligue 20,(STR),adrien thomasson,24,1,2168,7,5.25,0.23,50,18,2.19,0.79,2019,6000000
+France,France Ligue 12,(MPE),andy delort,26,0,2409,9,10.9,0.43,84,29,3.31,1.14,2019,10000000
+France,France Ligue 2,(MON),wissam ben yedder,25,1,2321,18,12.95,0.53,64,36,2.62,1.47,2019,40000000
+France,France Ligue 19,(STR),ludovic ajorque,24,2,2163,8,6.6,0.29,50,22,2.2,0.97,2019,6000000
+France,France Ligue 14,(LEI),islam slimani,14,4,1378,9,8.7,0.6,53,20,3.65,1.38,2019,6000000
+France,France Ligue 17,(REN),adrien hunou,13,10,1325,8,7.25,0.52,28,15,2.01,1.08,2019,4000000
+France,France Ligue 10,(STE),denis bouanga,23,3,2173,10,9.38,0.41,78,37,3.41,1.62,2019,8000000
+France,France Ligue 16,(REN),sehrou guirassy,23,0,2030,9,8.55,0.4,45,19,2.11,0.89,2019,15000000
+France,France Ligue 5,(STR),habib diallo,26,0,2344,12,9.13,0.37,83,34,3.36,1.38,2019,12000000
+France,France Ligue 4,(NAP),victor osimhen,25,2,2434,13,14.86,0.58,86,35,3.36,1.37,2019,27000000
+England,Premier League,(MNC),kevin de bruyne,32,3,2984,13,7.22,0.23,99,31,3.15,0.99,2019,120000000
+England,Premier League,(LEI),jamie vardy,34,1,3271,23,19.28,0.56,89,42,2.58,1.22,2019,16000000
+England,Premier League,(MNC),raheem sterling,30,3,2836,20,20.3,0.68,99,38,3.32,1.27,2019,128000000
+England,Premier League,(BUR),chris wood,29,3,2616,14,17.07,0.62,65,29,2.36,1.05,2019,14000000
+England,Premier League,(MNU),anthony martial,31,1,2788,17,11.74,0.4,80,39,2.73,1.33,2019,48000000
+England,Premier League,(MNC),riyad mahrez,21,12,2130,11,7.62,0.34,74,31,3.3,1.38,2019,48000000
+England,Premier League,(MNU),marcus rashford,31,0,2826,17,19.93,0.67,95,44,3.19,1.48,2019,64000000
+England,Premier League,(LIV),mohamed salah,33,1,3045,19,20.51,0.64,132,59,4.12,1.84,2019,120000000
+England,Premier League,(MNC),gabriel jesus,21,13,2209,14,20.69,0.89,101,46,4.34,1.98,2019,56000000
+England,Premier League,(SOU),danny ings,32,6,3009,22,16.79,0.53,93,37,2.94,1.17,2019,17000000
+England,Premier League,(TOT),harry kane,29,0,2801,18,12.97,0.44,81,37,2.75,1.25,2019,120000000
+England,Premier League,(EVE),richarlison,36,0,3289,13,10.73,0.31,90,32,2.6,0.92,2019,60000000
+England,Premier League,(NOR),teemu pukki,33,3,3087,11,11.37,0.35,80,35,2.46,1.08,2019,8000000
+England,Premier League,(CHE),tammy abraham,25,9,2380,15,19.29,0.77,88,35,3.51,1.4,2019,40000000
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAN),carlos sanchez,27,7,2648,12,11.99,0.43,85,29,3.05,1.04,2019,1000000
+ Netherlands,Eredivisie,(AJA),davy klaassen,6,0,490,5,4.02,0.78,13,8,2.52,1.55,2019,12000000
+Spain,La Liga,(SOC),portu,6,5,691,4,1.53,0.21,6,4,0.82,0.55,2020,16000000
+Spain,La Liga,(RMA),karim benzema,8,0,741,4,4.91,0.63,27,12,3.46,1.54,2020,32000000
+Spain,La Liga,(VAL),carlos soler,6,1,599,4,3.34,0.53,8,5,1.27,0.79,2020,40000000
+Spain,La Liga,(BET),cristian tello,7,4,629,4,1.92,0.29,22,8,3.32,1.21,2020,4000000
+Spain,La Liga,(SOC),mikel oyarzabal,9,2,736,7,6.82,0.88,31,16,4.0,2.07,2020,48000000
+Spain,La Liga,(EIB),esteban burgos,6,1,589,3,2.85,0.46,5,4,0.81,0.65,2020,72500
+Spain,La Liga,(BAR),lionel messi,8,1,824,4,5.46,0.63,39,19,4.5,2.19,2020,112000000
+Spain,La Liga,(ATL),luis suarez,5,1,387,5,3.3,0.81,22,8,5.4,1.96,2020,28000000
+Spain,La Liga,(VIL),paco alcacer,9,0,693,5,5.11,0.7,16,8,2.19,1.1,2020,28000000
+Spain,La Liga,(VIL),paco alcacer,9,0,693,5,5.11,0.7,16,8,2.19,1.1,2020,28000000
+Spain,La Liga,(RMA),federico valverde,6,2,566,3,1.13,0.19,9,5,1.51,0.84,2020,54000000
+Spain,La Liga,(BAR),antoine griezmann,8,1,634,3,3.67,0.55,18,8,2.7,1.2,2020,96000000
+Spain,La Liga,(CEL),iago aspas,11,0,1056,5,4.89,0.44,21,12,1.89,1.08,2020,16000000
+Spain,La Liga,(BAR),ansu fati,6,1,451,4,1.8,0.38,14,7,2.95,1.47,2020,80000000
+Spain,La Liga,(VIL),gerard moreno,9,0,822,6,6.4,0.74,29,11,3.35,1.27,2020,16000000
+Italy,Serie A,(BOL),roberto soriano,9,0,849,5,2.41,0.27,18,7,2.01,0.78,2020,6000000
+Italy,Serie A,(SAS),francesco caputo,6,0,567,5,3.52,0.59,18,9,3.02,1.51,2020,5000000
+Italy,Serie A,(CAG),joao pedro,9,0,831,6,3.41,0.39,21,10,2.4,1.14,2020,14000000
+Italy,Serie A,(CAG),joao pedro,9,0,831,6,3.41,0.39,21,10,2.4,1.14,2020,12000000
+Italy,Serie A,(TOR),andrea belotti,8,0,754,7,3.49,0.44,24,11,3.02,1.39,2020,32000000
+Italy,Serie A,(FIO),gaetano castrovilli,9,0,755,4,1.43,0.18,11,7,1.38,0.88,2020,20000000
+Italy,Serie A,(CAG),giovanni simeone,8,0,664,5,3.29,0.47,15,5,2.15,0.72,2020,13000000
+Italy,Serie A,(SAS),domenico berardi,8,0,766,4,2.02,0.25,21,11,2.6,1.36,2020,19000000
+Italy,Serie A,(ROM),henrikh mkhitaryan,9,0,825,5,5.82,0.67,30,14,3.45,1.61,2020,20000000
+Italy,Serie A,(ROM),henrikh mkhitaryan,9,0,825,5,5.82,0.67,30,14,3.45,1.61,2020,20000000
+Italy,Serie A,(ROM),jordan veretout,9,0,769,4,3.48,0.43,18,7,2.22,0.86,2020,20000000
+Italy,Serie A,(PAR),gervinho,8,0,669,4,1.97,0.28,13,5,1.85,0.71,2020,5000000
+Italy,Serie A,(ATA),luis muriel,3,4,264,4,2.78,1.0,20,7,7.2,2.52,2020,15000000
+Italy,Serie A,(JUV),cristiano ronaldo,5,1,397,8,5.31,1.27,26,13,6.22,3.11,2020,60000000
+Italy,Serie A,(INT),romelu lukaku,6,2,580,7,7.27,1.19,22,10,3.6,1.64,2020,68000000
+Italy,Serie A,(NAP),dries mertens,9,0,616,4,2.46,0.38,24,11,3.7,1.7,2020,20000000
+Italy,Serie A,(LAZ),ciro immobile,6,1,571,5,3.73,0.62,22,8,3.66,1.33,2020,40000000
+Italy,Serie A,(SAM),fabio quagliarella,8,1,694,5,4.46,0.61,23,9,3.15,1.23,2020,1000000
+Italy,Serie A,(ACM),zlatan ibrahimovic,6,0,557,10,7.92,1.35,35,16,5.97,2.73,2020,3500000
+Italy,Serie A,(NAP),hirving lozano,9,0,568,4,2.93,0.49,18,11,3.01,1.84,2020,28000000
+Germany,Bundesliga,(LEV),lucas alario,6,1,561,7,3.07,0.52,20,11,3.39,1.86,2020,13000000
+Germany,Bundesliga,(FRA),bas dost,8,1,732,3,3.24,0.42,14,8,1.82,1.04,2020,5500000
+Germany,Bundesliga,(BAY),serge gnabry,7,1,626,4,1.58,0.24,18,9,2.73,1.37,2020,72000000
+Germany,Bundesliga,(WOB),wout weghorst,8,1,778,6,5.57,0.68,25,14,3.05,1.71,2020,21000000
+Germany,Bundesliga,(RBL),dani olmo,9,0,834,4,2.28,0.26,19,8,2.16,0.91,2020,33000000
+Germany,Bundesliga,(KOL),ellyes skhiri,8,0,709,3,1.87,0.25,6,3,0.8,0.4,2020,6000000
+Germany,Bundesliga,(BMG),lars stindl,7,2,567,4,3.52,0.59,19,9,3.18,1.51,2020,6000000
+Germany,Bundesliga,(FCA),daniel caligiuri,9,0,841,3,0.8,0.09,11,5,1.24,0.56,2020,4000000
+Germany,Bundesliga,(DOR),erling haaland,7,1,683,10,6.76,0.94,30,14,4.17,1.95,2020,72000000
+Germany,Bundesliga,(SCF),nils petersen,6,3,608,4,2.11,0.33,15,7,2.34,1.09,2020,6000000
+Germany,Bundesliga,(BSC),matheus cunha,9,0,857,6,3.43,0.38,26,15,2.88,1.66,2020,13000000
+Germany,Bundesliga,(BSC),matheus cunha,9,0,857,6,3.43,0.38,26,15,2.88,1.66,2020,13000000
+Germany,Bundesliga,(BAY),robert lewandowski,7,1,672,12,7.78,1.1,35,17,4.95,2.4,2020,56000000
+France,France Ligue 18,(NAN),ludovic blas,11,1,990,4,1.88,0.18,19,7,1.82,0.67,2020,8000000
+France,France Ligue 10,(MON),kevin volland,9,1,709,5,3.43,0.46,12,11,1.61,1.47,2020,28000000
+France,France Ligue 3,(MPE),andy delort,11,0,902,6,4.18,0.44,31,14,3.26,1.47,2020,10000000
+France,France Ligue 5,(MET),ibrahima niane,6,0,482,6,3.45,0.68,21,9,4.14,1.77,2020,3000000
+France,France Ligue 2,(REI),boulaye dia,9,1,772,8,5.28,0.65,25,12,3.08,1.48,2020,4000000
+France,France Ligue 20,(PSG),moise kean,6,0,454,4,3.2,0.67,14,5,2.93,1.05,2020,25000000
+France,France Ligue 15,(LEN),ignatius ganago,6,3,452,4,3.33,0.7,14,7,2.94,1.47,2020,3000000
+France,France Ligue 8,(BRE),irvin cardona,6,5,627,5,2.71,0.41,21,8,3.18,1.21,2020,4000000
+France,France Ligue 14,(MAR),florian thauvin,10,0,835,4,2.99,0.34,21,8,2.39,0.91,2020,32000000
+France,France Ligue 13,(NIC),amine gouiri,9,2,903,4,3.33,0.35,26,10,2.74,1.05,2020,4000000
+France,France Ligue 16,(LIL),jonathan bamba,11,1,1061,4,1.68,0.15,25,9,2.24,0.81,2020,16000000
+France,France Ligue 17,(STR),ludovic ajorque,11,0,1008,4,3.61,0.34,17,8,1.6,0.75,2020,6000000
+France,France Ligue 11,(LYO),memphis depay,9,3,903,5,4.75,0.5,30,10,3.16,1.05,2020,44000000
+England,Premier League,(MNU),bruno fernandes,9,0,809,7,5.45,0.64,30,14,3.52,1.64,2020,48000000
+England,Premier League,(CHE),timo werner,10,0,876,4,3.69,0.4,23,10,2.49,1.08,2020,64000000
+England,Premier League,(NEW),callum wilson,9,0,835,7,6.5,0.74,18,8,2.05,0.91,2020,24000000
+England,Premier League,(LIV),diogo jota,5,3,530,5,2.51,0.45,20,11,3.58,1.97,2020,40000000
+England,Premier League,(CRY),wilfried zaha,8,0,779,5,4.35,0.53,18,7,2.2,0.85,2020,44000000
+England,Premier League,(AVL),jack grealish,9,0,872,5,2.85,0.31,26,9,2.83,0.98,2020,30000000
+England,Premier League,(WHU),jarrod bowen,10,0,845,4,2.94,0.33,22,5,2.47,0.56,2020,16000000
+England,Premier League,(LIV),mohamed salah,9,0,831,8,6.12,0.7,35,15,4.0,1.71,2020,120000000
+England,Premier League,(LEI),jamie vardy,8,1,780,8,8.7,1.06,21,15,2.56,1.83,2020,16000000
+England,Premier League,(TOT),harry kane,10,0,956,7,6.64,0.66,39,15,3.88,1.49,2020,120000000
+England,Premier League,,danny ings,7,0,662,5,2.58,0.37,15,9,2.15,1.29,2020,17000000
+England,Premier League,(BHA),neal maupay,9,0,786,4,6.54,0.79,25,11,3.02,1.33,2020,17000000
+England,Premier League,(MNC),riyad mahrez,7,0,612,4,1.93,0.3,21,10,3.26,1.55,2020,48000000
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),pedro,12,6,1207,10,10.42,0.82,46,25,3.62,1.97,2020,7500000
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),pedro,12,6,1207,10,10.42,0.82,46,25,3.62,1.97,2020,12000000
